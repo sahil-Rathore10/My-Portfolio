@@ -1,12 +1,59 @@
-# React + Vite
+# My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website built using React and Vite—showcasing my projects, skills, and contact details.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
 
-## Expanding the ESLint configuration
+- [About](#about)
+- [Demo](#demo)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Running Locally](#running-locally)
+- [Customization](#customization)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## About
+
+This portfolio is built with **React** and **Vite**, offering a fast and modern web experience. It includes essential sections such as About Me, Projects, Skills, and Contact :contentReference[oaicite:1]{index=1}.
+
+---
+
+## Demo
+
+- **Live Site URL**: Add your deployed portfolio link here (e.g., GitHub Pages, Netlify, Vercel).
+
+---
+
+## Tech Stack
+
+- **Framework**: React
+- **Bundler/Dev Tool**: Vite (with HMR support) :contentReference[oaicite:2]{index=2}
+- **Linting**: ESLint (configured via `eslint.config.js`)
+- _(Optional: Include CSS framework, animations, contact integrations, etc.)_
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (version 14 or later)
+- npm or Yarn installed
+
+### Installation
+
+```bash
+git clone https://github.com/sahil-Rathore10/My-Portfolio.git
+cd My-Portfolio
+npm install
+# or yarn install
+```
